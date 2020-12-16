@@ -1,0 +1,6 @@
+verna
+city
+ciaz 
+rapid
+vento
+
